@@ -4,6 +4,16 @@
 
 Just includes one data.json.
 
+## How to use
+
+- `jq`
+
+```sh
+jq '.characters[].family' < data.json # or jq '.characters[*].family'
+```
+
+![](img/2021-03-03-22-47-17.png)
+
 ## Reference
 
 Inspired by [SWAPI](https://swapi.dev/).
