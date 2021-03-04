@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {
+      "id": 0,
+      "name": "Marty McFly",
+      "cast": "Michael J. Fox",
+      "family": {
+        "father": "George McFly",
+        "mother": "Lorraine Baines McFly",
+        "brother": ["Dave McFly"],
+        "sister": ["Linda McFly"],
+        "spouse": "Jennifer Parker McFly",
+        "children": [
+          "Marty McFly Jr.",
+          "Marlene McFly"
+        ]
+      },
+      "occupation": "student"
+    },
+    {
+      "id": 1,
+      "name": "Emmet Brown",
+      "cast": "Christopher Lloyd",
+      "family": {
+        "father": "Judge Von Braun",
+        "spouse": "Clara Clayton Brown",
+        "children": [
+          "Jules Eratosthenes Brown",
+          "Vern Newton Brown"
+        ]
+      },
+      "occupation": "scientist"
+    },
+    {
+      "id": 2,
+      "name": "Biff Tannen",
+      "cast": "Thomas F. Wilson",
+      "family": {
+        "great-grandfather": "Buford Mad Dog Tannen",
+        "grandchild": ["Griff Tannen"]
+      },
+      "occupation": "student"
+    }
+  ]
+}
